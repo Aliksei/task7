@@ -1,0 +1,7 @@
+*.iml
+.idea
+*.ipr
+target
+debug.log
+launch.properties
+testsuites/test.xml
